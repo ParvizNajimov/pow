@@ -1,5 +1,5 @@
 let intr = prompt('any numbers')
-document.write(`<b>КАЛЬКУЛЯТОР</b> <br>`)
+document.write(`<b>УМНОЖЕНИЕ</b> <br>`)
 for(let i = 1; i <=50; i++) {
     document.write(` ${intr} * ${i} = ${intr * i}<br>`)
 }
